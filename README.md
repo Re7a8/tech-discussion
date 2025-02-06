@@ -1,4 +1,7 @@
 # tech-discussion
 This is a demo repo for sharing ideas about communication 
-*one
-*two
+
+## This is a second heading
+* one
+* two
+* three
